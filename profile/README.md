@@ -12,8 +12,8 @@
 
 ## 📋 Explore Further  
 
-- [![Go to Detailed Instructions](https://img.shields.io/badge/Go_to_Detailed_Instructions-NOW-blueviolet)](https://github.com/LockWiper-Community/LockWiper-Unlock-Hub)  
-- [![Start Tutorial](https://img.shields.io/badge/Start_Tutorial-NOW-blueviolet)](https://github.com/LockWiper-Community/LockWiper-Unlock-Hub)  
+- [![Go to Detailed Instructions](https://img.shields.io/badge/Go_to_Detailed_Instructions-NOW-blueviolet)](https://github.com/Free-Android-Unlock-Hub/LockWiper-Unlock-Free-Hub)  
+- [![Start Tutorial](https://img.shields.io/badge/Start_Tutorial-NOW-blueviolet)](https://github.com/Free-Android-Unlock-Hub/.github)  
 
 ---
 
